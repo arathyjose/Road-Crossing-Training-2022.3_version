@@ -71,7 +71,7 @@ git clone https://github.com/arathyjose/Road-Crossing-Training-2022.3_version.gi
 | Move left | `A` / `←` |
 | Move right | `D` / `→` |
 
-*(Update this table if your controls are different)*
+
 
 ---
 
@@ -79,7 +79,7 @@ git clone https://github.com/arathyjose/Road-Crossing-Training-2022.3_version.gi
 
 | Simulation View | Traffic Signal |
 |---|---|
-| <img width="450" alt="building_view" src="https://github.com/user-attachments/assets/23918c82-912a-4dc0-ac26-96f76733a664" /> | <img width="1600" height="738" alt="traffic_signal" src="https://github.com/user-attachments/assets/add7c3f9-6351-45f9-9130-16f66d7d3cee" />
+| <img width="450" alt="building_view" src="https://github.com/user-attachments/assets/23918c82-912a-4dc0-ac26-96f76733a664" /> | <img width="450"  alt="traffic_signal" src="https://github.com/user-attachments/assets/add7c3f9-6351-45f9-9130-16f66d7d3cee" />
  |
 
 ---
